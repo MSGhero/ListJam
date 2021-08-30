@@ -334,7 +334,7 @@ class Game extends Object {
 			effectUpdater.callback = () -> {
 				noAdvance = diaUpdate.paused = false;
 				currTrack.stop();
-				currTrack = Res.Jumpin_Monkeys;
+				currTrack = Res.Monkey_Credits;
 				currTrack.play(true);
 				leftPic.alpha = rightPic.alpha = 1;
 				rightPic.x = 200;
