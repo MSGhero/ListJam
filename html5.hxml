@@ -1,0 +1,13 @@
+-cp source
+-D resourcesPath=assets
+
+-D windowSize=1024x576
+
+-lib heaps
+-lib haxeui-heaps
+-lib newgrounds
+-lib stb_ogg_sound
+
+-js export/js/ListJam.js
+-main Main
+-debug

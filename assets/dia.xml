@@ -1,0 +1,8 @@
+<absolute left="225" top="425" width="574" height="141">
+	<label id="dia" left="45" top="48" width="484" height="80" text="" />
+	<hbox id="options" hidden="true" left="57" top="110" width="460" height="30">
+		<button text="" width="45%" height="100%" style="background-image:Option.png;text-align:center" />
+		<spacer width="10%" />
+		<button text="" width="45%" height="100%" style="background-image:Option.png;text-align:center" />
+	</hbox>
+</absolute>
